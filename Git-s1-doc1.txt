@@ -1,3 +1,5 @@
 
 
 Documento 1 de prueba GIT 
+
+Mas cambios incorporados al arcivo Git-s1doc1.txt
